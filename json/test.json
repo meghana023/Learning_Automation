@@ -1,0 +1,11 @@
+[
+  {
+    "name": "John Doe",
+    "salary": "50000",
+    "age": "30",
+    "child_details": {
+      "child_name": "Jane Doe",
+      "child_age": "5"
+    }
+  }
+]
